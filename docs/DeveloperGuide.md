@@ -243,11 +243,13 @@ _{Explain here how the data archiving feature will be implemented}_
 Priorities: High (must have) - `* * *`, Medium (nice to have) - `* *`, Low (unlikely to have) - `*`
 
 | Priority | As a …​                                    | I want to …​                     | So that I can…​                                             |
-| -------- | ------------------------------------------ | ------------------------------ | ---------------------------------------------------------------------- |
-| `* * *`  | new user                                   | access a user manual           | learn how to use the available features                                |
-| `* * *`  | user                                       | add an employee record         | keep track of the data of a particular employee                        |
-| `* * *`  | user                                       | delete an employee record      | remove an employee record that I no longer need                        |
-| `* * *`  | user                                       | find an employee record        | look at the particular employee's information                          |
+| -------- | ------------------------------------------ | ------------------------------- | ---------------------------------------------------------------------- |
+| `* * *`  | new user                                   | access a user manual            | learn how to use the available features                                |
+| `* * *`  | user                                       | add an employee record          | keep track of the data of a particular employee                        |
+| `* * *`  | user                                       | delete an employee record       | remove an employee record that I no longer need                        |
+| `* * *`  | user                                       | find an employee record         | look at the particular employee's information                          |
+| `* * *`  | user                                       | sort employee records by salary | see the salary structure in my company                          |
+
 
 *{More to be added}*
 

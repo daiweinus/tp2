@@ -102,6 +102,17 @@ Format: `find TYPE KEYWORD...`
 Examples of usage:
 * `find n John Bernice Andy` 
 
+### Sorting employee records by salary : `sort`
+
+Sort employee records by salary so that I can see the salary structure in my company.
+
+Format: `sort TYPE KEYWORD`
+* `TYPE` must be the letter `salary`.
+* Employee records sort by salary ascending order will be returned. 
+
+Examples of usage:
+* `sort salary` 
+
 ### Clearing all employee records : `clear`
 
 Clears all employee records from the Human Resource Management System.
